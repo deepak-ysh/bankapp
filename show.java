@@ -1,1 +1,1 @@
-malking the text files
+malking the text lines of the files and paragaraph
